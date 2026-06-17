@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Sample NPP Site 1",
+    "state": "Maharashtra",
+    "zone": "Western Zone",
+    "lat": 19.83,
+    "lng": 72.66,
+    "description": "Placeholder site. To be replaced with official NPP data."
+  },
+  {
+    "id": 2,
+    "name": "Sample NPP Site 2",
+    "state": "Tamil Nadu",
+    "zone": "Southern Zone",
+    "lat": 8.17,
+    "lng": 77.71,
+    "description": "Placeholder site. To be replaced with official NPP data."
+  }
+]
